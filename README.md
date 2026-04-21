@@ -1,0 +1,2 @@
+# prompt-deepseek
+prompt deepseek
